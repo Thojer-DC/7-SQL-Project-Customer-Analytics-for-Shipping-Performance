@@ -2,7 +2,7 @@
 
 
 ## Overview
-- In order to assess shipping performance and customer happiness, this project analyzes customer data. The goal is to determine everything that affect the speed of delivery and how they connect to discounts and ratings from customers.
+In order to assess shipping performance and customer happiness, this project analyzes customer data. The goal is to determine everything that affect the speed of delivery and how they connect to discounts and ratings from customers.
 
 ## Objective
 1. Analyze shipping speed according to the shipment method.
