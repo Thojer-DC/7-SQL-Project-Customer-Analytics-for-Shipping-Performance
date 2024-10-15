@@ -1,5 +1,6 @@
 # Customer Analytics for Shipping Performance
 
+![](https://github.com/Thojer-DC/7-SQL-Project-Customer-Analytics-for-Shipping-Performance/blob/main/shipment.jpg)
 
 ## Overview
 In order to assess shipping performance and customer happiness, this project analyzes customer data. The goal is to determine everything that affect the speed of delivery and how they connect to discounts and ratings from customers.
@@ -15,9 +16,7 @@ In order to assess shipping performance and customer happiness, this project ana
 The data for this project is sourced from Kaggle
 Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
-<!-- 
-## picture
-   ![]link -->
+
 ## SQL Schema
 **Creating database** 
 ```SQL
