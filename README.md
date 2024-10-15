@@ -49,7 +49,6 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 **Shipping Performance by Mode of Shipment**
 
-1. How many people in each city are estimated to consume coffee, given that 25% of the population does?
 ```SQL
    SELECT
       shipment_mode,
@@ -66,7 +65,6 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 **Customer Satisfaction Metrics**
 
-2. What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 ```SQL
    SELECT 
       customer_rating,
@@ -84,7 +82,6 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 **Impact of Discounts on Shipping Performance**
 
-3. How many units of each coffee product have been sold?
 ```SQL
    SELECT 
       CASE 
@@ -106,7 +103,6 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 **Weight Analysis**
 
-4. What is the average sales amount per customer in each city?
 ```SQL
    SELECT 
       CASE 
@@ -127,7 +123,6 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 **Warehouse Block Analysis**
 
-5. Provide a list of cities along with their populations and estimated coffee consumers.
 ```SQL
    SELECT 
       warehouse_block,
