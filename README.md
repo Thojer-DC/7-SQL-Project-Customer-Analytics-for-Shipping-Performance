@@ -48,7 +48,8 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 ## SQL Query
 
-**Shipping Performance by Mode of Shipment** 
+**Shipping Performance by Mode of Shipment**
+
 1. How many people in each city are estimated to consume coffee, given that 25% of the population does?
 ```SQL
    SELECT
@@ -64,7 +65,8 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 ```
 
 
-**Customer Satisfaction Metrics** 
+**Customer Satisfaction Metrics**
+
 2. What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 ```SQL
    SELECT 
@@ -82,6 +84,7 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 
 **Impact of Discounts on Shipping Performance**
+
 3. How many units of each coffee product have been sold?
 ```SQL
    SELECT 
@@ -103,6 +106,7 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 
 **Weight Analysis**
+
 4. What is the average sales amount per customer in each city?
 ```SQL
    SELECT 
@@ -123,6 +127,7 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 
 **Warehouse Block Analysis**
+
 5. Provide a list of cities along with their populations and estimated coffee consumers.
 ```SQL
    SELECT 
@@ -141,13 +146,15 @@ Dataset Link: https://www.kaggle.com/datasets/prachi13/customer-analytics
 ## Findings and Recommendations
 
 **Findings:**  
+
 1. The mode of shipment Flight has the highest percentage of on-time time delivery rates with 60.16 compared to others
 2. High customer ratings have to do with increased shipment performance, implying that satisfied customers are more likely to receive their orders on time.
 3. Discounts don't seem significantly correlated with customer ratings, showing that price reductions alone could not boost customer satisfaction.
 4. Heavier products have lower percentages of on-time deliveries, which could be caused by transporting challenges.
 5. Some warehouse blocks show number on-time performance, focusing on potential improvements in operation.
 
-**Recommendations:**  
+**Recommendations:**
+  
 1. Consider prioritizing faster shipping method to enhance customer satisfaction.
 2. Consider improving customer suppport to address shipment inquiries effectively with products with low on-time performance
 3. Further analyze consumer buying trends to develop focused offers that can raise satisfaction ratings.
